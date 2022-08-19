@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/masashi/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.6/site-packages",
+        "/home/masashi/turtlebot3_ws/build/turtlebot3_example",
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_example/lib/python3.6/site-packages",
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.6/site-packages",
+        "/home/masashi/turtlebot3/build/turtlebot3_teleop",
+        "/home/masashi/turtlebot3/install/turtlebot3_teleop/lib/python3.6/site-packages",
+        "/home/masashi/turtlebot3/build/turtlebot3_example",
+        "/home/masashi/turtlebot3/install/turtlebot3_example/lib/python3.6/site-packages",
+        "/home/masashi/turtlebot3/install/turtlebot3_msgs/lib/python3.6/site-packages",
+        "/opt/ros/dashing/lib/python3.6/site-packages"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/masashi/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/masashi/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/home/masashi/turtlebot3/install/turtlebot3_gazebo/include/**",
+        "/home/masashi/turtlebot3/install/turtlebot3_fake_node/include/**",
+        "/home/masashi/turtlebot3/install/turtlebot3_msgs/include/**",
+        "/home/masashi/turtlebot3/install/dynamixel_sdk/include/**",
+        "/opt/ros/dashing/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
